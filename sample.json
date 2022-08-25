@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "id": "BFF4C2C880E04C85B363DA86FBC6C833",
+        "organization": "0001 - VIEILLE DU TEMPLE HOMME - LEGACY",
+        "organization_info": {
+          "name": "0001 - VIEILLE DU TEMPLE HOMME - LEGACY",
+          "searchKey": "0001",
+          "id": "0B816B42C19740ABA8581D963F7597B1"
+        },
+        "warehouse": "0001",
+        "bin": "Defectueux",
+        "creationDate": "2022-06-28 15:25:17",
+        "movementDate": "2022-06-28",
+        "product": "E20ABEL Bleu Denim 40",
+        "product_info": {
+          "searchKey": "1-E20-SFPBL00296-4077-40",
+          "name": "E20ABEL Bleu Denim 40",
+          "upcEAN": "3607171606863",
+          "id": "B734A8A157594FBCA88677BF42651B77"
+        },
+        "movementType": "M+",
+        "movementQty": 107,
+        "UOM": "EA",
+        "movementLineId": "400F62AC186548A0B97B1F2D025D70E7",
+        "updatedBy": "Openbravo"
+      },
+      {
+        "id": "E4EF2BC15FAB41F3B318427D2784D5CD",
+        "organization": "0001 - VIEILLE DU TEMPLE HOMME - LEGACY",
+        "organization_info": {
+          "name": "0001 - VIEILLE DU TEMPLE HOMME - LEGACY",
+          "searchKey": "0001",
+          "id": "0B816B42C19740ABA8581D963F7597B1"
+        },
+        "warehouse": "0899",
+        "bin": "Disponible",
+        "creationDate": "2022-06-28 15:25:17",
+        "movementDate": "2022-06-28",
+        "product": "E20ABEL Bleu Denim 40",
+        "product_info": {
+          "searchKey": "1-E20-SFPBL00296-4077-40",
+          "name": "E20ABEL Bleu Denim 40",
+          "upcEAN": "3607171606863",
+          "id": "B734A8A157594FBCA88677BF42651B77"
+        },
+        "movementType": "M-",
+        "movementQty": -107,
+        "UOM": "EA",
+        "movementLineId": "400F62AC186548A0B97B1F2D025D70E7",
+        "updatedBy": "Openbravo"
+      }
+    ],
+    "meta": {
+      "event": "API_StockTransactionM",
+      "entity": "StockTransaction",
+      "isMultiRecord": true,
+      "filter": {
+        "name": "byGoodsMovement",
+        "parameters": {
+          "lastUpdated": "2022-06-28 15:22:07.417"
+        }
+      }
+    }
+  }

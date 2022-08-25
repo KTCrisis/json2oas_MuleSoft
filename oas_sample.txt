@@ -1,0 +1,88 @@
+description : data
+type: array
+
+items:
+    type: object
+    additionalProperties: false
+    properties:
+
+description : id
+type: string
+example: "BFF4C2C880E04C85B363DA86FBC6C833"
+description : organization
+type: string
+example: "0001 - VIEILLE DU TEMPLE HOMME - LEGACY"
+description : warehouse
+type: string
+example: "0001"
+description : bin
+type: string
+example: "Defectueux"
+description : creationDate
+type: string
+example: "2022-06-28 15:25:17"
+description : movementDate
+type: string
+example: "2022-06-28"
+description : product
+type: string
+example: "E20ABEL Bleu Denim 40"
+description : movementType
+type: string
+example: "M+"
+description : movementQty
+type: number
+example: "107"
+description : UOM
+type: string
+example: "EA"
+description : movementLineId
+type: string
+example: "400F62AC186548A0B97B1F2D025D70E7"
+description : updatedBy
+type: string
+example: "Openbravo"
+description : data
+type: array
+
+items:
+    type: object
+    additionalProperties: false
+    properties:
+
+description : id
+type: string
+example: "BFF4C2C880E04C85B363DA86FBC6C833"
+description : organization
+type: string
+example: "0001 - VIEILLE DU TEMPLE HOMME - LEGACY"
+description : warehouse
+type: string
+example: "0001"
+description : bin
+type: string
+example: "Defectueux"
+description : creationDate
+type: string
+example: "2022-06-28 15:25:17"
+description : movementDate
+type: string
+example: "2022-06-28"
+description : product
+type: string
+example: "E20ABEL Bleu Denim 40"
+description : movementType
+type: string
+example: "M+"
+description : movementQty
+type: number
+example: "107"
+description : UOM
+type: string
+example: "EA"
+description : movementLineId
+type: string
+example: "400F62AC186548A0B97B1F2D025D70E7"
+description : updatedBy
+type: string
+example: "Openbravo"
